@@ -7,7 +7,6 @@
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/ncurses-333333?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Make-A42E2B?style=for-the-badge&logo=gnu&logoColor=white" />
 </p>
 
 </div>
